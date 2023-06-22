@@ -1,0 +1,17 @@
+*{
+	margin:0px;
+	padding:0;
+	box-sizing:border-box;
+}
+.back{
+  background-image:linear-gradient(#000000c7,#0d0ba891), url(../image/why.jpg);
+  /* background-repeat: no-repeat; */
+  /* background-attachment: fixed; */
+  /* background-position: top bottom; */
+  background-size:cover;
+  /* height:90vh */
+}
+.para{
+	font-size:14px;
+	color:#d3c5c5!important;
+}
